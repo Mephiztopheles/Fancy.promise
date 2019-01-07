@@ -1,0 +1,23 @@
+{
+    "name"           : "@mephiztopheles/fancypromise",
+    "version"        : "1.0.0",
+    "description"    : "Chainable awaitable Promise",
+    "main"           : "FancyPromise.ts",
+    "scripts"        : {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage"       : "https://github.com/Mephiztopheles/Fancy.promise#readme",
+    "keywords"       : [
+        "promise",
+        "mephiztopheles"
+    ],
+    "devDependencies": {
+        "@mephiztopheles/test": "*"
+    },
+    "repository"     : {
+        "type": "git",
+        "url" : "git+https://github.com/Mephiztopheles/Fancy.promise.git"
+    },
+    "author"         : "Xandrios93",
+    "license"        : "MIT"
+}
